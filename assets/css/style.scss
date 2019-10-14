@@ -1,5 +1,5 @@
 ---
 ---
 
-@import "{{ .logos
-  width: 100px }}";
+@import "{{ .logos{
+  width: 100px;} }}";
