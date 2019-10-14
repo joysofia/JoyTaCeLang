@@ -1,4 +1,5 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ .logos
+  width: 100px }}";
